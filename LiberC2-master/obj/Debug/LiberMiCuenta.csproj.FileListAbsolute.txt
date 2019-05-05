@@ -1,0 +1,326 @@
+E:\PROYECYO LIB\windows form\LiberC2-master\LiberC2-master\bin\Debug\LiberMiCuenta.exe.config
+G:\PROYECYO LIB\windows form\LiberC2-master\LiberC2-master\bin\Debug\LiberMiCuenta.exe.config
+G:\PROYECYO LIB\windows form\LiberC2-master\LiberC2-master\bin\Debug\LiberMiCuenta.exe
+G:\PROYECYO LIB\windows form\LiberC2-master\LiberC2-master\bin\Debug\LiberMiCuenta.pdb
+G:\PROYECYO LIB\windows form\LiberC2-master\LiberC2-master\obj\Debug\LiberMiCuenta.csprojResolveAssemblyReference.cache
+G:\PROYECYO LIB\windows form\LiberC2-master\LiberC2-master\obj\Debug\LiberMiCuenta.AgregarAdmin.resources
+G:\PROYECYO LIB\windows form\LiberC2-master\LiberC2-master\obj\Debug\LiberMiCuenta.listadeadmin.resources
+G:\PROYECYO LIB\windows form\LiberC2-master\LiberC2-master\obj\Debug\LiberMiCuenta.Micuenta.resources
+G:\PROYECYO LIB\windows form\LiberC2-master\LiberC2-master\obj\Debug\LiberMiCuenta.Modificar.resources
+G:\PROYECYO LIB\windows form\LiberC2-master\LiberC2-master\obj\Debug\LiberMiCuenta.Properties.Resources.resources
+G:\PROYECYO LIB\windows form\LiberC2-master\LiberC2-master\obj\Debug\LiberMiCuenta.csproj.GenerateResource.Cache
+G:\PROYECYO LIB\windows form\LiberC2-master\LiberC2-master\obj\Debug\LiberMiCuenta.exe
+G:\PROYECYO LIB\windows form\LiberC2-master\LiberC2-master\obj\Debug\LiberMiCuenta.pdb
+G:\PROYECYO LIB\windows form\SSSS\LiberC2-master\bin\Debug\LiberMiCuenta.exe.config
+G:\PROYECYO LIB\windows form\SSSS\LiberC2-master\obj\Debug\LiberMiCuenta.exe
+G:\PROYECYO LIB\windows form\SSSS\LiberC2-master\obj\Debug\LiberMiCuenta.pdb
+G:\PROYECYO LIB\windows form\SSSS\LiberC2-master\bin\Debug\LiberMiCuenta.exe
+G:\PROYECYO LIB\windows form\SSSS\LiberC2-master\bin\Debug\LiberMiCuenta.pdb
+G:\PROYECYO LIB\windows form\SSSS\LiberC2-master\obj\Debug\LiberMiCuenta.csprojResolveAssemblyReference.cache
+G:\PROYECYO LIB\windows form\SSSS\LiberC2-master\obj\Debug\LiberMiCuenta.AgregarAdmin.resources
+G:\PROYECYO LIB\windows form\SSSS\LiberC2-master\obj\Debug\LiberMiCuenta.listadeadmin.resources
+G:\PROYECYO LIB\windows form\SSSS\LiberC2-master\obj\Debug\LiberMiCuenta.login.resources
+G:\PROYECYO LIB\windows form\SSSS\LiberC2-master\obj\Debug\LiberMiCuenta.Micuenta.resources
+G:\PROYECYO LIB\windows form\SSSS\LiberC2-master\obj\Debug\LiberMiCuenta.Modificar.resources
+G:\PROYECYO LIB\windows form\SSSS\LiberC2-master\obj\Debug\LiberMiCuenta.Properties.Resources.resources
+G:\PROYECYO LIB\windows form\SSSS\LiberC2-master\obj\Debug\LiberMiCuenta.csproj.GenerateResource.Cache
+G:\PROYECYO LIB\windows form\VERIFICACIONES ECHAS\LiberC2-master\bin\Debug\LiberMiCuenta.exe.config
+G:\PROYECYO LIB\windows form\VERIFICACIONES ECHAS\LiberC2-master\obj\Debug\LiberMiCuenta.exe
+G:\PROYECYO LIB\windows form\VERIFICACIONES ECHAS\LiberC2-master\obj\Debug\LiberMiCuenta.pdb
+G:\PROYECYO LIB\windows form\VERIFICACIONES ECHAS\LiberC2-master\bin\Debug\LiberMiCuenta.exe
+G:\PROYECYO LIB\windows form\VERIFICACIONES ECHAS\LiberC2-master\bin\Debug\LiberMiCuenta.pdb
+G:\PROYECYO LIB\windows form\VERIFICACIONES ECHAS\LiberC2-master\obj\Debug\LiberMiCuenta.csprojResolveAssemblyReference.cache
+G:\PROYECYO LIB\windows form\VERIFICACIONES ECHAS\LiberC2-master\obj\Debug\LiberMiCuenta.AgregarAdmin.resources
+G:\PROYECYO LIB\windows form\VERIFICACIONES ECHAS\LiberC2-master\obj\Debug\LiberMiCuenta.listadeadmin.resources
+G:\PROYECYO LIB\windows form\VERIFICACIONES ECHAS\LiberC2-master\obj\Debug\LiberMiCuenta.login.resources
+G:\PROYECYO LIB\windows form\VERIFICACIONES ECHAS\LiberC2-master\obj\Debug\LiberMiCuenta.Micuenta.resources
+G:\PROYECYO LIB\windows form\VERIFICACIONES ECHAS\LiberC2-master\obj\Debug\LiberMiCuenta.Modificar.resources
+G:\PROYECYO LIB\windows form\VERIFICACIONES ECHAS\LiberC2-master\obj\Debug\LiberMiCuenta.Properties.Resources.resources
+G:\PROYECYO LIB\windows form\VERIFICACIONES ECHAS\LiberC2-master\obj\Debug\LiberMiCuenta.csproj.GenerateResource.Cache
+E:\PROYECYO LIB\windows form\VERIFICACIONES ECHAS\LiberC2-master\bin\Debug\LiberMiCuenta.exe.config
+E:\PROYECYO LIB\windows form\VERIFICACIONES ECHAS\LiberC2-master\obj\Debug\LiberMiCuenta.exe
+E:\PROYECYO LIB\windows form\VERIFICACIONES ECHAS\LiberC2-master\obj\Debug\LiberMiCuenta.pdb
+E:\PROYECYO LIB\windows form\VERIFICACIONES ECHAS\LiberC2-master\bin\Debug\LiberMiCuenta.exe
+E:\PROYECYO LIB\windows form\VERIFICACIONES ECHAS\LiberC2-master\bin\Debug\LiberMiCuenta.pdb
+E:\PROYECYO LIB\windows form\VERIFICACIONES ECHAS\LiberC2-master\bin\Debug\Newtonsoft.Json.dll
+E:\PROYECYO LIB\windows form\VERIFICACIONES ECHAS\LiberC2-master\bin\Debug\Newtonsoft.Json.xml
+E:\PROYECYO LIB\windows form\VERIFICACIONES ECHAS\LiberC2-master\obj\Debug\LiberMiCuenta.csprojResolveAssemblyReference.cache
+E:\PROYECYO LIB\windows form\VERIFICACIONES ECHAS\LiberC2-master\obj\Debug\LiberMiCuenta.AgregarAdmin.resources
+E:\PROYECYO LIB\windows form\VERIFICACIONES ECHAS\LiberC2-master\obj\Debug\LiberMiCuenta.correo.resources
+E:\PROYECYO LIB\windows form\VERIFICACIONES ECHAS\LiberC2-master\obj\Debug\LiberMiCuenta.listadeadmin.resources
+E:\PROYECYO LIB\windows form\VERIFICACIONES ECHAS\LiberC2-master\obj\Debug\LiberMiCuenta.login.resources
+E:\PROYECYO LIB\windows form\VERIFICACIONES ECHAS\LiberC2-master\obj\Debug\LiberMiCuenta.Micuenta.resources
+E:\PROYECYO LIB\windows form\VERIFICACIONES ECHAS\LiberC2-master\obj\Debug\LiberMiCuenta.Modificar.resources
+E:\PROYECYO LIB\windows form\VERIFICACIONES ECHAS\LiberC2-master\obj\Debug\LiberMiCuenta.Properties.Resources.resources
+E:\PROYECYO LIB\windows form\VERIFICACIONES ECHAS\LiberC2-master\obj\Debug\LiberMiCuenta.csproj.GenerateResource.Cache
+C:\Users\jordi\Desktop\VERIFICACIONES ECHAS\LiberC2-master\bin\Debug\LiberMiCuenta.exe.config
+C:\Users\jordi\Desktop\VERIFICACIONES ECHAS\LiberC2-master\bin\Debug\LiberMiCuenta.exe
+C:\Users\jordi\Desktop\VERIFICACIONES ECHAS\LiberC2-master\bin\Debug\LiberMiCuenta.pdb
+C:\Users\jordi\Desktop\VERIFICACIONES ECHAS\LiberC2-master\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jordi\Desktop\VERIFICACIONES ECHAS\LiberC2-master\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jordi\Desktop\VERIFICACIONES ECHAS\LiberC2-master\obj\Debug\LiberMiCuenta.csprojResolveAssemblyReference.cache
+C:\Users\jordi\Desktop\VERIFICACIONES ECHAS\LiberC2-master\obj\Debug\LiberMiCuenta.AgregarAdmin.resources
+C:\Users\jordi\Desktop\VERIFICACIONES ECHAS\LiberC2-master\obj\Debug\LiberMiCuenta.correo.resources
+C:\Users\jordi\Desktop\VERIFICACIONES ECHAS\LiberC2-master\obj\Debug\LiberMiCuenta.listadeadmin.resources
+C:\Users\jordi\Desktop\VERIFICACIONES ECHAS\LiberC2-master\obj\Debug\LiberMiCuenta.login.resources
+C:\Users\jordi\Desktop\VERIFICACIONES ECHAS\LiberC2-master\obj\Debug\LiberMiCuenta.Micuenta.resources
+C:\Users\jordi\Desktop\VERIFICACIONES ECHAS\LiberC2-master\obj\Debug\LiberMiCuenta.Modificar.resources
+C:\Users\jordi\Desktop\VERIFICACIONES ECHAS\LiberC2-master\obj\Debug\LiberMiCuenta.Properties.Resources.resources
+C:\Users\jordi\Desktop\VERIFICACIONES ECHAS\LiberC2-master\obj\Debug\LiberMiCuenta.csproj.GenerateResource.Cache
+C:\Users\jordi\Desktop\VERIFICACIONES ECHAS\LiberC2-master\obj\Debug\LiberMiCuenta.csproj.CoreCompileInputs.cache
+C:\Users\jordi\Desktop\VERIFICACIONES ECHAS\LiberC2-master\obj\Debug\LiberMiCuenta.exe
+C:\Users\jordi\Desktop\VERIFICACIONES ECHAS\LiberC2-master\obj\Debug\LiberMiCuenta.pdb
+C:\Users\cep.CEPNET0\Desktop\VERIFICACIONES ECHAS,JSON\LiberC2-master\bin\Debug\LiberMiCuenta.exe.config
+C:\Users\cep.CEPNET0\Desktop\VERIFICACIONES ECHAS,JSON\LiberC2-master\obj\Debug\LiberMiCuenta.exe
+C:\Users\cep.CEPNET0\Desktop\VERIFICACIONES ECHAS,JSON\LiberC2-master\obj\Debug\LiberMiCuenta.pdb
+C:\Users\cep.CEPNET0\Desktop\VERIFICACIONES ECHAS,JSON\LiberC2-master\obj\Debug\LiberMiCuenta.csprojResolveAssemblyReference.cache
+C:\Users\cep.CEPNET0\Desktop\VERIFICACIONES ECHAS,JSON\LiberC2-master\obj\Debug\LiberMiCuenta.AgregarAdmin.resources
+C:\Users\cep.CEPNET0\Desktop\VERIFICACIONES ECHAS,JSON\LiberC2-master\obj\Debug\LiberMiCuenta.correo.resources
+C:\Users\cep.CEPNET0\Desktop\VERIFICACIONES ECHAS,JSON\LiberC2-master\obj\Debug\LiberMiCuenta.listadeadmin.resources
+C:\Users\cep.CEPNET0\Desktop\VERIFICACIONES ECHAS,JSON\LiberC2-master\obj\Debug\LiberMiCuenta.login.resources
+C:\Users\cep.CEPNET0\Desktop\VERIFICACIONES ECHAS,JSON\LiberC2-master\obj\Debug\LiberMiCuenta.Micuenta.resources
+C:\Users\cep.CEPNET0\Desktop\VERIFICACIONES ECHAS,JSON\LiberC2-master\obj\Debug\LiberMiCuenta.Modificar.resources
+C:\Users\cep.CEPNET0\Desktop\VERIFICACIONES ECHAS,JSON\LiberC2-master\obj\Debug\LiberMiCuenta.Properties.Resources.resources
+C:\Users\cep.CEPNET0\Desktop\VERIFICACIONES ECHAS,JSON\LiberC2-master\obj\Debug\LiberMiCuenta.csproj.GenerateResource.Cache
+C:\Users\cep.CEPNET0\Desktop\VERIFICACIONES ECHAS,JSON\LiberC2-master\obj\Debug\LiberMiCuenta.AgregarLibreria.resources
+C:\Users\cep.CEPNET0\Desktop\VERIFICACIONES ECHAS,JSON\LiberC2-master\obj\Debug\LiberMiCuenta.AñadirActividad.resources
+C:\Users\jordi\Desktop\Pantallasjuntas\LiberC2-master\bin\Debug\LiberMiCuenta.exe.config
+C:\Users\jordi\Desktop\Pantallasjuntas\LiberC2-master\bin\Debug\LiberMiCuenta.exe
+C:\Users\jordi\Desktop\Pantallasjuntas\LiberC2-master\bin\Debug\LiberMiCuenta.pdb
+C:\Users\jordi\Desktop\Pantallasjuntas\LiberC2-master\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jordi\Desktop\Pantallasjuntas\LiberC2-master\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jordi\Desktop\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.csprojResolveAssemblyReference.cache
+C:\Users\jordi\Desktop\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.AgregarAdmin.resources
+C:\Users\jordi\Desktop\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.AgregarLibreria.resources
+C:\Users\jordi\Desktop\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.AñadirActividad.resources
+C:\Users\jordi\Desktop\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.correo.resources
+C:\Users\jordi\Desktop\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.Lista_de_actividad.resources
+C:\Users\jordi\Desktop\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.listadeadmin.resources
+C:\Users\jordi\Desktop\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.login.resources
+C:\Users\jordi\Desktop\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.Micuenta.resources
+C:\Users\jordi\Desktop\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.Modificar.resources
+C:\Users\jordi\Desktop\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.Properties.Resources.resources
+C:\Users\jordi\Desktop\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.csproj.GenerateResource.Cache
+C:\Users\jordi\Desktop\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.csproj.CoreCompileInputs.cache
+C:\Users\jordi\Desktop\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.exe
+C:\Users\jordi\Desktop\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.pdb
+D:\kali\sssss\Pantallasjuntas\LiberC2-master\bin\Debug\LiberMiCuenta.exe.config
+D:\kali\sssss\Pantallasjuntas\LiberC2-master\bin\Debug\LiberMiCuenta.exe
+D:\kali\sssss\Pantallasjuntas\LiberC2-master\bin\Debug\LiberMiCuenta.pdb
+D:\kali\sssss\Pantallasjuntas\LiberC2-master\bin\Debug\Newtonsoft.Json.dll
+D:\kali\sssss\Pantallasjuntas\LiberC2-master\bin\Debug\Newtonsoft.Json.xml
+D:\kali\sssss\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.csprojResolveAssemblyReference.cache
+D:\kali\sssss\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.AgregarAdmin.resources
+D:\kali\sssss\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.AgregarLibreria.resources
+D:\kali\sssss\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.AñadirActividad.resources
+D:\kali\sssss\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.correo.resources
+D:\kali\sssss\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.Lista_de_actividad.resources
+D:\kali\sssss\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.listadeadmin.resources
+D:\kali\sssss\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.login.resources
+D:\kali\sssss\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.Micuenta.resources
+D:\kali\sssss\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.Modificar.resources
+D:\kali\sssss\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.Properties.Resources.resources
+D:\kali\sssss\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.csproj.GenerateResource.Cache
+D:\kali\sssss\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.csproj.CoreCompileInputs.cache
+D:\kali\sssss\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.exe
+D:\kali\sssss\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.pdb
+E:\PROYECTOLIBRO\test\Pantallasjuntas\LiberC2-master\bin\Debug\LiberMiCuenta.exe.config
+E:\PROYECTOLIBRO\test\Pantallasjuntas\LiberC2-master\bin\Debug\LiberMiCuenta.exe
+E:\PROYECTOLIBRO\test\Pantallasjuntas\LiberC2-master\bin\Debug\LiberMiCuenta.pdb
+E:\PROYECTOLIBRO\test\Pantallasjuntas\LiberC2-master\bin\Debug\Newtonsoft.Json.dll
+E:\PROYECTOLIBRO\test\Pantallasjuntas\LiberC2-master\bin\Debug\Newtonsoft.Json.xml
+E:\PROYECTOLIBRO\test\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.csprojResolveAssemblyReference.cache
+E:\PROYECTOLIBRO\test\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.AgregarAdmin.resources
+E:\PROYECTOLIBRO\test\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.AgregarLibreria.resources
+E:\PROYECTOLIBRO\test\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.AñadirActividad.resources
+E:\PROYECTOLIBRO\test\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.correo.resources
+E:\PROYECTOLIBRO\test\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.Lista_de_actividad.resources
+E:\PROYECTOLIBRO\test\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.listadeadmin.resources
+E:\PROYECTOLIBRO\test\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.login.resources
+E:\PROYECTOLIBRO\test\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.Micuenta.resources
+E:\PROYECTOLIBRO\test\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.Modificar.resources
+E:\PROYECTOLIBRO\test\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.Properties.Resources.resources
+E:\PROYECTOLIBRO\test\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.csproj.GenerateResource.Cache
+E:\PROYECTOLIBRO\test\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.exe
+E:\PROYECTOLIBRO\test\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.pdb
+C:\Users\jordi\Desktop\test\Pantallasjuntas\LiberC2-master\bin\Debug\LiberMiCuenta.exe.config
+C:\Users\jordi\Desktop\test\Pantallasjuntas\LiberC2-master\bin\Debug\LiberMiCuenta.exe
+C:\Users\jordi\Desktop\test\Pantallasjuntas\LiberC2-master\bin\Debug\LiberMiCuenta.pdb
+C:\Users\jordi\Desktop\test\Pantallasjuntas\LiberC2-master\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jordi\Desktop\test\Pantallasjuntas\LiberC2-master\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jordi\Desktop\test\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.csprojResolveAssemblyReference.cache
+C:\Users\jordi\Desktop\test\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.AgregarAdmin.resources
+C:\Users\jordi\Desktop\test\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.AgregarLibreria.resources
+C:\Users\jordi\Desktop\test\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.AñadirActividad.resources
+C:\Users\jordi\Desktop\test\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.correo.resources
+C:\Users\jordi\Desktop\test\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.Lista_de_actividad.resources
+C:\Users\jordi\Desktop\test\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.listadeadmin.resources
+C:\Users\jordi\Desktop\test\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.login.resources
+C:\Users\jordi\Desktop\test\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.Micuenta.resources
+C:\Users\jordi\Desktop\test\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.Modificar.resources
+C:\Users\jordi\Desktop\test\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.Properties.Resources.resources
+C:\Users\jordi\Desktop\test\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.csproj.GenerateResource.Cache
+C:\Users\jordi\Desktop\test\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.csproj.CoreCompileInputs.cache
+C:\Users\jordi\Desktop\test\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.exe
+C:\Users\jordi\Desktop\test\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.pdb
+C:\Users\jordi\Downloads\test\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.exe
+C:\Users\jordi\Downloads\test\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.pdb
+C:\Users\jordi\Downloads\test\Pantallasjuntas\LiberC2-master\bin\Debug\LiberMiCuenta.exe.config
+C:\Users\jordi\Downloads\test\Pantallasjuntas\LiberC2-master\bin\Debug\LiberMiCuenta.exe
+C:\Users\jordi\Downloads\test\Pantallasjuntas\LiberC2-master\bin\Debug\LiberMiCuenta.pdb
+C:\Users\jordi\Downloads\test\Pantallasjuntas\LiberC2-master\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jordi\Downloads\test\Pantallasjuntas\LiberC2-master\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jordi\Downloads\test\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.csprojResolveAssemblyReference.cache
+C:\Users\jordi\Downloads\test\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.AgregarAdmin.resources
+C:\Users\jordi\Downloads\test\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.AgregarLibreria.resources
+C:\Users\jordi\Downloads\test\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.AñadirActividad.resources
+C:\Users\jordi\Downloads\test\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.correo.resources
+C:\Users\jordi\Downloads\test\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.Lista_de_actividad.resources
+C:\Users\jordi\Downloads\test\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.listadeadmin.resources
+C:\Users\jordi\Downloads\test\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.listadelibrerias.resources
+C:\Users\jordi\Downloads\test\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.login.resources
+C:\Users\jordi\Downloads\test\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.Micuenta.resources
+C:\Users\jordi\Downloads\test\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.Modificar.resources
+C:\Users\jordi\Downloads\test\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.Properties.Resources.resources
+C:\Users\jordi\Downloads\test\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.csproj.GenerateResource.Cache
+C:\Users\jordi\Downloads\test\Pantallasjuntas\LiberC2-master\obj\Debug\LiberMiCuenta.csproj.CoreCompileInputs.cache
+C:\Users\cep.CEPNET0\Downloads\LiberC2-master\bin\Debug\LiberMiCuenta.exe.config
+C:\Users\cep.CEPNET0\Downloads\LiberC2-master\bin\Debug\LiberMiCuenta.exe
+C:\Users\cep.CEPNET0\Downloads\LiberC2-master\bin\Debug\LiberMiCuenta.pdb
+C:\Users\cep.CEPNET0\Downloads\LiberC2-master\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cep.CEPNET0\Downloads\LiberC2-master\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cep.CEPNET0\Downloads\LiberC2-master\obj\Debug\LiberMiCuenta.csprojResolveAssemblyReference.cache
+C:\Users\cep.CEPNET0\Downloads\LiberC2-master\obj\Debug\LiberMiCuenta.AgregarLibreria.resources
+C:\Users\cep.CEPNET0\Downloads\LiberC2-master\obj\Debug\LiberMiCuenta.AñadirActividad.resources
+C:\Users\cep.CEPNET0\Downloads\LiberC2-master\obj\Debug\LiberMiCuenta.correo.resources
+C:\Users\cep.CEPNET0\Downloads\LiberC2-master\obj\Debug\LiberMiCuenta.Lista_de_actividad.resources
+C:\Users\cep.CEPNET0\Downloads\LiberC2-master\obj\Debug\LiberMiCuenta.listadeadmin.resources
+C:\Users\cep.CEPNET0\Downloads\LiberC2-master\obj\Debug\LiberMiCuenta.listadelibrerias.resources
+C:\Users\cep.CEPNET0\Downloads\LiberC2-master\obj\Debug\LiberMiCuenta.login.resources
+C:\Users\cep.CEPNET0\Downloads\LiberC2-master\obj\Debug\LiberMiCuenta.Micuenta.resources
+C:\Users\cep.CEPNET0\Downloads\LiberC2-master\obj\Debug\LiberMiCuenta.Modificar.resources
+C:\Users\cep.CEPNET0\Downloads\LiberC2-master\obj\Debug\LiberMiCuenta.Properties.Resources.resources
+C:\Users\cep.CEPNET0\Downloads\LiberC2-master\obj\Debug\LiberMiCuenta.csproj.GenerateResource.Cache
+C:\Users\cep.CEPNET0\Downloads\LiberC2-master\obj\Debug\LiberMiCuenta.exe
+C:\Users\cep.CEPNET0\Downloads\LiberC2-master\obj\Debug\LiberMiCuenta.pdb
+C:\Users\jordi\Desktop\PROYECTO FORM CMABIAR RUTAS ABSOLUTAS\LiberC2-master\bin\Debug\LiberMiCuenta.exe.config
+C:\Users\jordi\Desktop\PROYECTO FORM CMABIAR RUTAS ABSOLUTAS\LiberC2-master\bin\Debug\LiberMiCuenta.exe
+C:\Users\jordi\Desktop\PROYECTO FORM CMABIAR RUTAS ABSOLUTAS\LiberC2-master\bin\Debug\LiberMiCuenta.pdb
+C:\Users\jordi\Desktop\PROYECTO FORM CMABIAR RUTAS ABSOLUTAS\LiberC2-master\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jordi\Desktop\PROYECTO FORM CMABIAR RUTAS ABSOLUTAS\LiberC2-master\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jordi\Desktop\PROYECTO FORM CMABIAR RUTAS ABSOLUTAS\LiberC2-master\obj\Debug\LiberMiCuenta.csprojResolveAssemblyReference.cache
+C:\Users\jordi\Desktop\PROYECTO FORM CMABIAR RUTAS ABSOLUTAS\LiberC2-master\obj\Debug\LiberMiCuenta.AgregarLibreria.resources
+C:\Users\jordi\Desktop\PROYECTO FORM CMABIAR RUTAS ABSOLUTAS\LiberC2-master\obj\Debug\LiberMiCuenta.AñadirActividad.resources
+C:\Users\jordi\Desktop\PROYECTO FORM CMABIAR RUTAS ABSOLUTAS\LiberC2-master\obj\Debug\LiberMiCuenta.correo.resources
+C:\Users\jordi\Desktop\PROYECTO FORM CMABIAR RUTAS ABSOLUTAS\LiberC2-master\obj\Debug\LiberMiCuenta.Lista_de_actividad.resources
+C:\Users\jordi\Desktop\PROYECTO FORM CMABIAR RUTAS ABSOLUTAS\LiberC2-master\obj\Debug\LiberMiCuenta.listadeadmin.resources
+C:\Users\jordi\Desktop\PROYECTO FORM CMABIAR RUTAS ABSOLUTAS\LiberC2-master\obj\Debug\LiberMiCuenta.listadelibrerias.resources
+C:\Users\jordi\Desktop\PROYECTO FORM CMABIAR RUTAS ABSOLUTAS\LiberC2-master\obj\Debug\LiberMiCuenta.login.resources
+C:\Users\jordi\Desktop\PROYECTO FORM CMABIAR RUTAS ABSOLUTAS\LiberC2-master\obj\Debug\LiberMiCuenta.Micuenta.resources
+C:\Users\jordi\Desktop\PROYECTO FORM CMABIAR RUTAS ABSOLUTAS\LiberC2-master\obj\Debug\LiberMiCuenta.Modificar.resources
+C:\Users\jordi\Desktop\PROYECTO FORM CMABIAR RUTAS ABSOLUTAS\LiberC2-master\obj\Debug\LiberMiCuenta.Properties.Resources.resources
+C:\Users\jordi\Desktop\PROYECTO FORM CMABIAR RUTAS ABSOLUTAS\LiberC2-master\obj\Debug\LiberMiCuenta.csproj.GenerateResource.Cache
+C:\Users\jordi\Desktop\PROYECTO FORM CMABIAR RUTAS ABSOLUTAS\LiberC2-master\obj\Debug\LiberMiCuenta.csproj.CoreCompileInputs.cache
+C:\Users\jordi\Desktop\PROYECTO FORM CMABIAR RUTAS ABSOLUTAS\LiberC2-master\obj\Debug\LiberMiCuenta.exe
+C:\Users\jordi\Desktop\PROYECTO FORM CMABIAR RUTAS ABSOLUTAS\LiberC2-master\obj\Debug\LiberMiCuenta.pdb
+G:\androind studio listas\Liber\LiberC2-master\bin\Debug\LiberMiCuenta.exe.config
+G:\androind studio listas\Liber\LiberC2-master\bin\Debug\LiberMiCuenta.exe
+G:\androind studio listas\Liber\LiberC2-master\bin\Debug\LiberMiCuenta.pdb
+G:\androind studio listas\Liber\LiberC2-master\bin\Debug\Newtonsoft.Json.dll
+G:\androind studio listas\Liber\LiberC2-master\bin\Debug\Newtonsoft.Json.xml
+G:\androind studio listas\Liber\LiberC2-master\obj\Debug\LiberMiCuenta.csprojResolveAssemblyReference.cache
+G:\androind studio listas\Liber\LiberC2-master\obj\Debug\LiberMiCuenta.AgregarLibreria.resources
+G:\androind studio listas\Liber\LiberC2-master\obj\Debug\LiberMiCuenta.AñadirActividad.resources
+G:\androind studio listas\Liber\LiberC2-master\obj\Debug\LiberMiCuenta.correo.resources
+G:\androind studio listas\Liber\LiberC2-master\obj\Debug\LiberMiCuenta.Lista_de_actividad.resources
+G:\androind studio listas\Liber\LiberC2-master\obj\Debug\LiberMiCuenta.listadeadmin.resources
+G:\androind studio listas\Liber\LiberC2-master\obj\Debug\LiberMiCuenta.listadelibrerias.resources
+G:\androind studio listas\Liber\LiberC2-master\obj\Debug\LiberMiCuenta.login.resources
+G:\androind studio listas\Liber\LiberC2-master\obj\Debug\LiberMiCuenta.Micuenta.resources
+G:\androind studio listas\Liber\LiberC2-master\obj\Debug\LiberMiCuenta.Modificar.resources
+G:\androind studio listas\Liber\LiberC2-master\obj\Debug\LiberMiCuenta.Properties.Resources.resources
+G:\androind studio listas\Liber\LiberC2-master\obj\Debug\LiberMiCuenta.csproj.GenerateResource.Cache
+G:\androind studio listas\Liber\LiberC2-master\obj\Debug\LiberMiCuenta.exe
+G:\androind studio listas\Liber\LiberC2-master\obj\Debug\LiberMiCuenta.pdb
+E:\androind studio listas\Liber\LiberC2-master\bin\Debug\LiberMiCuenta.exe.config
+E:\androind studio listas\Liber\LiberC2-master\bin\Debug\LiberMiCuenta.exe
+E:\androind studio listas\Liber\LiberC2-master\bin\Debug\LiberMiCuenta.pdb
+E:\androind studio listas\Liber\LiberC2-master\bin\Debug\Newtonsoft.Json.dll
+E:\androind studio listas\Liber\LiberC2-master\bin\Debug\Newtonsoft.Json.xml
+E:\androind studio listas\Liber\LiberC2-master\obj\Debug\LiberMiCuenta.csprojAssemblyReference.cache
+E:\androind studio listas\Liber\LiberC2-master\obj\Debug\LiberMiCuenta.AgregarLibreria.resources
+E:\androind studio listas\Liber\LiberC2-master\obj\Debug\LiberMiCuenta.AñadirActividad.resources
+E:\androind studio listas\Liber\LiberC2-master\obj\Debug\LiberMiCuenta.correo.resources
+E:\androind studio listas\Liber\LiberC2-master\obj\Debug\LiberMiCuenta.Lista_de_actividad.resources
+E:\androind studio listas\Liber\LiberC2-master\obj\Debug\LiberMiCuenta.listadeadmin.resources
+E:\androind studio listas\Liber\LiberC2-master\obj\Debug\LiberMiCuenta.listadelibrerias.resources
+E:\androind studio listas\Liber\LiberC2-master\obj\Debug\LiberMiCuenta.login.resources
+E:\androind studio listas\Liber\LiberC2-master\obj\Debug\LiberMiCuenta.Micuenta.resources
+E:\androind studio listas\Liber\LiberC2-master\obj\Debug\LiberMiCuenta.Modificar.resources
+E:\androind studio listas\Liber\LiberC2-master\obj\Debug\LiberMiCuenta.Properties.Resources.resources
+E:\androind studio listas\Liber\LiberC2-master\obj\Debug\LiberMiCuenta.csproj.GenerateResource.cache
+E:\androind studio listas\Liber\LiberC2-master\obj\Debug\LiberMiCuenta.csproj.CoreCompileInputs.cache
+E:\androind studio listas\Liber\LiberC2-master\obj\Debug\LiberMiCuenta.csproj.CopyComplete
+E:\androind studio listas\Liber\LiberC2-master\obj\Debug\LiberMiCuenta.exe
+E:\androind studio listas\Liber\LiberC2-master\obj\Debug\LiberMiCuenta.pdb
+G:\LiberEXPO\LiberC2-master\bin\Debug\LiberMiCuenta.exe.config
+G:\LiberEXPO\LiberC2-master\bin\Debug\LiberMiCuenta.exe
+G:\LiberEXPO\LiberC2-master\bin\Debug\LiberMiCuenta.pdb
+G:\LiberEXPO\LiberC2-master\bin\Debug\Newtonsoft.Json.dll
+G:\LiberEXPO\LiberC2-master\bin\Debug\Newtonsoft.Json.xml
+G:\LiberEXPO\LiberC2-master\obj\Debug\LiberMiCuenta.csprojResolveAssemblyReference.cache
+G:\LiberEXPO\LiberC2-master\obj\Debug\LiberMiCuenta.AgregarLibreria.resources
+G:\LiberEXPO\LiberC2-master\obj\Debug\LiberMiCuenta.AñadirActividad.resources
+G:\LiberEXPO\LiberC2-master\obj\Debug\LiberMiCuenta.correo.resources
+G:\LiberEXPO\LiberC2-master\obj\Debug\LiberMiCuenta.Lista_de_actividad.resources
+G:\LiberEXPO\LiberC2-master\obj\Debug\LiberMiCuenta.listadeadmin.resources
+G:\LiberEXPO\LiberC2-master\obj\Debug\LiberMiCuenta.listadelibrerias.resources
+G:\LiberEXPO\LiberC2-master\obj\Debug\LiberMiCuenta.login.resources
+G:\LiberEXPO\LiberC2-master\obj\Debug\LiberMiCuenta.Micuenta.resources
+G:\LiberEXPO\LiberC2-master\obj\Debug\LiberMiCuenta.Modificar.resources
+G:\LiberEXPO\LiberC2-master\obj\Debug\LiberMiCuenta.Properties.Resources.resources
+G:\LiberEXPO\LiberC2-master\obj\Debug\LiberMiCuenta.csproj.GenerateResource.Cache
+G:\LiberEXPO\LiberC2-master\obj\Debug\LiberMiCuenta.exe
+G:\LiberEXPO\LiberC2-master\obj\Debug\LiberMiCuenta.pdb
+C:\Users\cep.CEPNET0\Desktop\dsdasdasdasdas\LiberC2-master\bin\Debug\LiberMiCuenta.exe.config
+C:\Users\cep.CEPNET0\Desktop\dsdasdasdasdas\LiberC2-master\bin\Debug\LiberMiCuenta.exe
+C:\Users\cep.CEPNET0\Desktop\dsdasdasdasdas\LiberC2-master\bin\Debug\LiberMiCuenta.pdb
+C:\Users\cep.CEPNET0\Desktop\dsdasdasdasdas\LiberC2-master\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cep.CEPNET0\Desktop\dsdasdasdasdas\LiberC2-master\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cep.CEPNET0\Desktop\dsdasdasdasdas\LiberC2-master\obj\Debug\LiberMiCuenta.csprojAssemblyReference.cache
+C:\Users\cep.CEPNET0\Desktop\dsdasdasdasdas\LiberC2-master\obj\Debug\LiberMiCuenta.AgregarLibreria.resources
+C:\Users\cep.CEPNET0\Desktop\dsdasdasdasdas\LiberC2-master\obj\Debug\LiberMiCuenta.AñadirActividad.resources
+C:\Users\cep.CEPNET0\Desktop\dsdasdasdasdas\LiberC2-master\obj\Debug\LiberMiCuenta.correo.resources
+C:\Users\cep.CEPNET0\Desktop\dsdasdasdasdas\LiberC2-master\obj\Debug\LiberMiCuenta.Lista_de_actividad.resources
+C:\Users\cep.CEPNET0\Desktop\dsdasdasdasdas\LiberC2-master\obj\Debug\LiberMiCuenta.listadeadmin.resources
+C:\Users\cep.CEPNET0\Desktop\dsdasdasdasdas\LiberC2-master\obj\Debug\LiberMiCuenta.listadelibrerias.resources
+C:\Users\cep.CEPNET0\Desktop\dsdasdasdasdas\LiberC2-master\obj\Debug\LiberMiCuenta.login.resources
+C:\Users\cep.CEPNET0\Desktop\dsdasdasdasdas\LiberC2-master\obj\Debug\LiberMiCuenta.Micuenta.resources
+C:\Users\cep.CEPNET0\Desktop\dsdasdasdasdas\LiberC2-master\obj\Debug\LiberMiCuenta.Modificar.resources
+C:\Users\cep.CEPNET0\Desktop\dsdasdasdasdas\LiberC2-master\obj\Debug\LiberMiCuenta.Properties.Resources.resources
+C:\Users\cep.CEPNET0\Desktop\dsdasdasdasdas\LiberC2-master\obj\Debug\LiberMiCuenta.csproj.GenerateResource.cache
+C:\Users\cep.CEPNET0\Desktop\dsdasdasdasdas\LiberC2-master\obj\Debug\LiberMiCuenta.csproj.CoreCompileInputs.cache
+C:\Users\cep.CEPNET0\Desktop\dsdasdasdasdas\LiberC2-master\obj\Debug\LiberMiCuenta.csproj.CopyComplete
+C:\Users\cep.CEPNET0\Desktop\dsdasdasdasdas\LiberC2-master\obj\Debug\LiberMiCuenta.exe
+C:\Users\cep.CEPNET0\Desktop\dsdasdasdasdas\LiberC2-master\obj\Debug\LiberMiCuenta.pdb
+E:\LiberEXPO\Tecnica\LiberC2-master\bin\Debug\LiberMiCuenta.exe.config
+E:\LiberEXPO\Tecnica\LiberC2-master\bin\Debug\LiberMiCuenta.exe
+E:\LiberEXPO\Tecnica\LiberC2-master\bin\Debug\LiberMiCuenta.pdb
+E:\LiberEXPO\Tecnica\LiberC2-master\bin\Debug\Newtonsoft.Json.dll
+E:\LiberEXPO\Tecnica\LiberC2-master\bin\Debug\Newtonsoft.Json.xml
+E:\LiberEXPO\Tecnica\LiberC2-master\obj\Debug\LiberMiCuenta.csprojAssemblyReference.cache
+E:\LiberEXPO\Tecnica\LiberC2-master\obj\Debug\LiberMiCuenta.AgregarLibreria.resources
+E:\LiberEXPO\Tecnica\LiberC2-master\obj\Debug\LiberMiCuenta.AñadirActividad.resources
+E:\LiberEXPO\Tecnica\LiberC2-master\obj\Debug\LiberMiCuenta.correo.resources
+E:\LiberEXPO\Tecnica\LiberC2-master\obj\Debug\LiberMiCuenta.Lista_de_actividad.resources
+E:\LiberEXPO\Tecnica\LiberC2-master\obj\Debug\LiberMiCuenta.listadeadmin.resources
+E:\LiberEXPO\Tecnica\LiberC2-master\obj\Debug\LiberMiCuenta.listadelibrerias.resources
+E:\LiberEXPO\Tecnica\LiberC2-master\obj\Debug\LiberMiCuenta.login.resources
+E:\LiberEXPO\Tecnica\LiberC2-master\obj\Debug\LiberMiCuenta.Micuenta.resources
+E:\LiberEXPO\Tecnica\LiberC2-master\obj\Debug\LiberMiCuenta.Modificar.resources
+E:\LiberEXPO\Tecnica\LiberC2-master\obj\Debug\LiberMiCuenta.Properties.Resources.resources
+E:\LiberEXPO\Tecnica\LiberC2-master\obj\Debug\LiberMiCuenta.csproj.GenerateResource.cache
+E:\LiberEXPO\Tecnica\LiberC2-master\obj\Debug\LiberMiCuenta.csproj.CoreCompileInputs.cache
+E:\LiberEXPO\Tecnica\LiberC2-master\obj\Debug\LiberMiCuenta.csproj.CopyComplete
+E:\LiberEXPO\Tecnica\LiberC2-master\obj\Debug\LiberMiCuenta.exe
+E:\LiberEXPO\Tecnica\LiberC2-master\obj\Debug\LiberMiCuenta.pdb

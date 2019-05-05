@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiberMiCuenta", "LiberMiCuenta.csproj", "{EF5AE9CF-7338-4DCA-9A6A-547E086095FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF5AE9CF-7338-4DCA-9A6A-547E086095FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF5AE9CF-7338-4DCA-9A6A-547E086095FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF5AE9CF-7338-4DCA-9A6A-547E086095FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF5AE9CF-7338-4DCA-9A6A-547E086095FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDE370FC-F366-4C3D-990D-989CF9AEDEDB}
+	EndGlobalSection
+EndGlobal

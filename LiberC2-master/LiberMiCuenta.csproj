@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EF5AE9CF-7338-4DCA-9A6A-547E086095FE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LiberMiCuenta</RootNamespace>
+    <AssemblyName>LiberMiCuenta</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>packages\Newtonsoft.Json.11.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Actividades.cs" />
+    <Compile Include="admin.cs" />
+    <Compile Include="admin2.cs" />
+    <Compile Include="adminprueba.cs" />
+    <Compile Include="AñadirActividad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AñadirActividad.Designer.cs">
+      <DependentUpon>AñadirActividad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="correo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="correo.Designer.cs">
+      <DependentUpon>correo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AgregarLibreria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarLibreria.Designer.cs">
+      <DependentUpon>AgregarLibreria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="listadelibrerias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="listadelibrerias.Designer.cs">
+      <DependentUpon>listadelibrerias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lista de actividad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lista de actividad.Designer.cs">
+      <DependentUpon>Lista de actividad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="listadeadmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="listadeadmin.Designer.cs">
+      <DependentUpon>listadeadmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Llbreria.cs" />
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Micuenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Micuenta.Designer.cs">
+      <DependentUpon>Micuenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modificar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modificar.Designer.cs">
+      <DependentUpon>Modificar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AgregarLibreria.resx">
+      <DependentUpon>AgregarLibreria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AñadirActividad.resx">
+      <DependentUpon>AñadirActividad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="correo.resx">
+      <DependentUpon>correo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lista de actividad.resx">
+      <DependentUpon>Lista de actividad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="listadeadmin.resx">
+      <DependentUpon>listadeadmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="listadelibrerias.resx">
+      <DependentUpon>listadelibrerias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Micuenta.resx">
+      <DependentUpon>Micuenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modificar.resx">
+      <DependentUpon>Modificar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Admin.json" />
+    <None Include="Actividades.json" />
+    <None Include="Librerias.json" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoblanco.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
